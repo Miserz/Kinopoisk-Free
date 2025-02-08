@@ -23,7 +23,7 @@
 
     // Функция для добавления кнопки
     function addButton() {
-        const buttonsContainer = document.querySelector('.styles_buttonsContainer__HREZO');
+        const buttonsContainer = document.querySelector('.styles_root__lMV74');
         if (buttonsContainer) {
             // Создаем новую кнопку
             const newButton = document.createElement('button');
@@ -35,7 +35,7 @@
             // Добавляем обработчик события для кнопки
             newButton.addEventListener('click', changeDomain);
 
-            // Добавляем кнопку в контейнер
+            // Добавляем кнопку в контейне
             buttonsContainer.appendChild(newButton);
 
             // Добавляем стили через <style>
@@ -44,17 +44,22 @@
                 .custom-redirect-button {
                     background: rgb(37, 99, 235);
                     color: white;
+                    margin-top: 2rem;
                     padding: 1.5rem 3rem;
                     border-radius: 999px;
                     border: none;
                     font-weight: 600;
                     cursor: pointer;
+                    box-shadow: 0px 0px 50px 10px rgba(37, 99, 235, 0.4);
+
                     transition: 250ms;
                 }
 
                 .custom-redirect-button:hover {
                     transform: scale(1.05);
                     background: rgb(23, 73, 181);
+                    box-shadow: 0px 0px 50px 10px rgba(37, 99, 235, 0.5);
+
                 }
             `;
             document.head.appendChild(style);
