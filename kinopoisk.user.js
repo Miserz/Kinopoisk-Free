@@ -7,8 +7,8 @@
 // @match        https://www.kinopoisk.ru/*
 // @grant        none
 // @homepageURL    https://github.com/Miserz/Kinopoisk-Free
-// @updateURL      https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
-// @downloadURL    https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
+// @updateURL      https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/kinopoisk.user.js
+// @downloadURL    https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/kinopoisk.user.js
 // ==/UserScript==
 
 (function() {
