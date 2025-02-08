@@ -2,11 +2,11 @@
 // @name         Kinopoisk Free
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Добавляет кнопку для перехода на kinopoisk.cx
+// @description  Этот скрипт добавляет кнопку "Смотреть" на сайт Кинопоиск. Кнопка позволяет быстро перейти на альтернативную версию сайта, где можно бесплатно смотреть фильмы и сериалы.
 // @author       Miserz_
 // @match        https://www.kinopoisk.ru/*
 // @grant        none
-// @homepageURL    https://github.com/ilyhalight/voice-over-translation
+// @homepageURL    https://github.com/Miserz/Kinopoisk-Free
 // @updateURL      https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
 // @downloadURL    https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
 // ==/UserScript==
