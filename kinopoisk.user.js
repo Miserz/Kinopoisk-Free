@@ -54,6 +54,7 @@
 
                 .custom-redirect-button:hover {
                     transform: scale(1.05);
+                    background: rgb(23, 73, 181);
                 }
             `;
             document.head.appendChild(style);
