@@ -6,6 +6,9 @@
 // @author       Miserz_
 // @match        https://www.kinopoisk.ru/*
 // @grant        none
+// @homepageURL    https://github.com/ilyhalight/voice-over-translation
+// @updateURL      https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
+// @downloadURL    https://raw.githubusercontent.com/Miserz/Kinopoisk-Free/master/script.js
 // ==/UserScript==
 
 (function() {
